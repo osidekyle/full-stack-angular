@@ -19,7 +19,7 @@ export const ARTICLES:Article[] =[
         description:"This is my second article",
         key:'my-second-article',
         date:new Date(),
-        imageUrl:'http://angular.io/assets/images/logos/angular/angular.png'
+        imageUrl:'http://angular.io/assets/images/logos/angular/angular_solidBlack.png'
     }
 ];
 
